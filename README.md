@@ -22,6 +22,7 @@ that model's `NOTES.md`, including any manual edits to the csvs.
 | Chad | 1 | 2020-2035 | |
 | Djibouti | 1 | 2018-2030 | |
 | Egypt | 1 | 2018-2035 | |
+| Gambia | 3 | 2019-2035 | |
 | Georgia | 1 | 2021-2040 | |
 | Iraq | 1 | 2018-2040 | |
 | Lao | 4 | 2020-2030 | |

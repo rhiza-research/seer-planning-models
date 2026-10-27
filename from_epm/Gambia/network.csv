@@ -1,0 +1,3 @@
+from,to,capacity,expandable,start_year,capital,unit_size,total_build_limit
+BSE,FFN,5.0,False,,,,
+FFN,GBA,10.0,False,,,,
