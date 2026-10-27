@@ -1,0 +1,50 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+EL GAILI_ST_Coal,Sudan,coal,coal,110.0,False,False,,,,1.0,1.0,2009,31,
+EL GAILI_CCGT_Gas,Sudan,CCGT,gas,250.0,False,False,,,,1.0,1.0,2003,31,
+EL GAILI_CCGT_LFO,Sudan,CCGT,oil,160.0,False,False,,,,1.0,1.0,2003,31,
+MAHMOUD SHARIF_GT_Diesel,Sudan,OCGT,oil,50.0,False,False,,,,1.0,1.0,2001,21,
+MAHMOUD SHARIF_GT_LFO,Sudan,OCGT,oil,170.0,False,False,,,,1.0,1.0,2016,21,
+ABRI_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+ABU HAMED_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+AL DADEEN_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2003,31,
+ASSALAYA_ICE_Diesel,Sudan,oil,oil,5.4,False,False,,,,1.0,1.0,1990,31,
+BROM_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+DALING NEC_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+DBAKR_ICE_Diesel,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2014,31,
+DONGOLA_ICE_Diesel,Sudan,oil,oil,3.2,False,False,,,,1.0,1.0,1998,31,
+DONGOLA_ICE_HFO,Sudan,oil,oil,14.0,False,False,,,,1.0,1.0,2003,31,
+EL FAO_ICE_HFO,Sudan,oil,oil,13.2,False,False,,,,1.0,1.0,2003,31,
+EL FASHER_ICE_Diesel,Sudan,oil,oil,13.4,False,False,,,,1.0,1.0,2001,31,
+EL FASHER_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2002,31,
+EL FULLA_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+EL GIMINA_ICE_Diesel,Sudan,oil,oil,10.7,False,False,,,,1.0,1.0,2005,31,
+EL NAHUD_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2002,31,
+EL OBEID_ICE_Diesel,Sudan,oil,oil,13.0,False,False,,,,1.0,1.0,1988,31,
+KADUGLI_ICE_Diesel,Sudan,oil,oil,0.7,False,False,,,,1.0,1.0,2004,31,
+KAREMA_ICE_HFO,Sudan,oil,oil,3.5,False,False,,,,1.0,1.0,1999,31,
+KASSALA_ICE_Diesel,Sudan,oil,oil,12.3,False,False,,,,1.0,1.0,1994,31,
+KILO-X DIT_ICE_HFO,Sudan,oil,oil,91.0,False,False,,,,1.0,1.0,2004,31,
+KOSTI 1_ST_HFO,Sudan,oil,oil,500.0,False,False,,,,1.0,1.0,2015,31,
+MAHMOUD SHARIF_ST_HFO,Sudan,oil,oil,380.0,False,False,,,,1.0,1.0,1995,31,
+MAHMOUD SHARIF_ICE_Diesel,Sudan,oil,oil,1.1,False,False,,,,1.0,1.0,1990,31,
+NYALA_ICE_Diesel,Sudan,oil,oil,2.59,False,False,,,,1.0,1.0,1995,31,
+NYALA_ICE_HFO,Sudan,oil,oil,7.0,False,False,,,,1.0,1.0,1985,31,
+PORT SUDAN_ICE_Diesel,Sudan,oil,oil,40.75,False,False,,,,1.0,1.0,2003,31,
+PORT SUDAN_ICE_HFO,Sudan,oil,oil,37.0,False,False,,,,1.0,1.0,1985,31,
+TENDALTI_ICE_HFO,Sudan,oil,oil,0.7,False,False,,,,1.0,1.0,2006,31,
+TOKAR_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+UMRAWABA_ICE_Diesel,Sudan,oil,oil,4.2,False,False,,,,1.0,1.0,2002,31,
+WADI HALFA_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2007,31,
+WADI HALFA_ICE_Diesel,Sudan,oil,oil,1.8,False,False,,,,1.0,1.0,2007,31,
+ZALING_ICE_HFO,Sudan,oil,oil,2.0,False,False,,,,1.0,1.0,2006,31,
+ZALING_ICE_Diesel,Sudan,oil,oil,3.0,False,False,,,,1.0,1.0,2016,31,
+BURDANA_STO HY_Water,Sudan,hydro,water,15.0,True,False,,,,1.0,1.0,2016,41,bca64d97-4566-473b-ad01-a5909fb2f9dc
+JEBEL AULIA_STO HY_Water,Sudan,hydro,water,28.8,True,False,,,,1.0,1.0,2007,41,8495d8ad-2fbd-4e3c-a584-dbd8cc074179
+KHASM EL GIRBA_STO HY_Water,Sudan,hydro,water,17.8,True,False,,,,1.0,1.0,1964,41,8453cd22-c034-4db0-8682-debb8bd55aa6
+MEROWE_STO HY_Water,Sudan,hydro,water,1250.0,True,False,,,,1.0,1.0,2009,41,b8b855e5-a82e-4bd8-8632-5efbaabf92e8
+ROSEIRES_STO HY_Water,Sudan,hydro,water,280.0,True,False,,,,1.0,1.0,1971,41,836e034f-7297-4944-a41d-7127ad804c2f
+RUMELA_STO HY_Water,Sudan,hydro,water,320.0,True,False,,,,1.0,1.0,2016,41,f39c4ef4-647d-408b-8bcf-95a782a1e278
+SENNAR_STO HY_Water,Sudan,hydro,water,15.0,True,False,,,,1.0,1.0,1962,41,610e3bb1-4a5e-46d8-9790-41bf7e5d4077
+ARKYIAI_ST_Coal,Sudan,coal,coal,,False,True,200.0,600.0,600.0,1.0,1.0,2020,30,
+EL FAO_ICE_Coal,Sudan,oil,oil,,False,True,6.2,31.0,31.0,1.0,1.0,2020,30,
+KAJBAR_STO HY_Water,Sudan,hydro,water,,True,True,60.0,360.0,360.0,1.0,1.0,2020,40,78484e23-c315-42bb-ab6e-5ae931a49425

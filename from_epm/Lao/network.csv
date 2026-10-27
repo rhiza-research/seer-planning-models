@@ -1,0 +1,6 @@
+from,to,capacity,expandable,start_year,capital,unit_size,total_build_limit
+Central1,Central2,214.0,False,,,,
+Central1,Central2,562.5,False,2022,,,
+Central1,North,1304.0,False,,,,
+Central1,North,800.0,False,2023,,,
+Central2,South,201.0,False,,,,

@@ -1,0 +1,6 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+PHP_Vrilo,BiH,PHS,66.0,6.0,0.8,False,,,,2027,34
+PSPCapljina,BiH,PHS,440.0,4.0,0.8,False,,,,1968,84
+PHP_Buk_Bijela,BiH,PHS,,6.0,0.8,True,3600.0,3600.0,3600.0,2026,40
+PHP_Kablic,BiH,PHS,,6.0,0.8,True,312.0,312.0,312.0,2027,40
+BESS,BiH,battery storage,,6.0,0.85,True,30000.0,30000.0,30000.0,2041,10

@@ -1,0 +1,8 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+New_Battery_Aus,Aus,battery storage,,4.0,0.85,True,40.0,4000.0,40000.0,2022,8
+New_Battery_Aus2,Aus,battery storage,,4.0,0.85,True,40.0,4000.0,40000.0,2025,8
+New_Battery_Kok,Kokerboom,battery storage,,4.0,0.85,True,40.0,4000.0,40000.0,2022,8
+New_Battery_Kok2,Kokerboom,battery storage,,4.0,0.85,True,40.0,4000.0,40000.0,2025,8
+New_Battery_Nam,Windhoek,battery storage,,4.0,0.85,True,40.0,4000.0,40000.0,2022,8
+New_Battery_Nam2,Windhoek,battery storage,,4.0,0.85,True,40.0,4000.0,40000.0,2025,8
+New_Storage_wPV_Nam,Windhoek,battery storage,,4.0,0.85,True,80.0,4000.0,40000.0,2022,8

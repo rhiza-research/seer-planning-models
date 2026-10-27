@@ -1,0 +1,6 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+Sto_BUR_150,BUR,battery storage,,3.0,0.85,True,,300.0,150.0,2026,15
+Sto_BUR_300,BUR,battery storage,,4.0,0.85,True,,400.0,300.0,2026,15
+Sto_BUR_75,BUR,battery storage,,3.0,0.85,True,,300.0,75.0,2026,15
+Stowapp1,BUR,battery storage,,3.75,0.85,True,,375.0,150.0,2032,15
+stowapp2,BUR,battery storage,,3.75,0.85,True,,375.0,225.0,2032,15

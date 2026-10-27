@@ -1,0 +1,6 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+PSH_Abdelmoumen_22,MOROCCO,PHS,350.0,12.0,0.75,False,,,,2022,41
+PSH_Afourer_06,MOROCCO,PHS,350.0,12.0,0.75,False,,,,2006,61
+PSH_Menzel_25,MOROCCO,PHS,350.0,12.0,0.75,False,,,,2025,41
+PSH_NN_25_MOR,MOROCCO,PHS,,12.0,0.75,True,4800.0,24000.0,120000.0,2025,50
+BT_NN_BAT_22_MOR,MOROCCO,battery storage,,8.0,0.9,True,400.0,16000.0,800000.0,2025,15

@@ -1,0 +1,164 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+Mtkvari TPP,Georgia,CCGT,gas,300.0,False,False,,,,0.35,0.35,1989,35,
+Tbilsresi TPP,Georgia,CCGT,gas,272.0,False,False,,,,0.3,0.3,1965,58,
+Gpower TPP,Georgia,CCGT,gas,110.0,False,False,,,,0.4,0.4,2006,31,
+Gardabani-1 CCGT,Georgia,CCGT,gas,231.2,False,False,,,,1.0,1.0,2016,15,
+Gardabani-2 CCGT,Georgia,CCGT,gas,231.0,False,False,,,,1.0,1.0,2021,10,
+Imports 2018-2021,Georgia,import,import,750.0,False,False,,,,1.0,1.0,2000,22,
+Imports 2022-2040,Georgia,import,import,750.0,False,False,,,,1.0,1.0,2022,19,
+Solar PV-1,Georgia,solar-utility,solar,126.25,True,False,,,,1.0,1.0,2021,25,dcc0ae4b-728d-4b5c-a882-c7440a9db01e
+Solar PV-2,Georgia,solar-utility,solar,126.25,True,False,,,,1.0,1.0,2025,25,dcc0ae4b-728d-4b5c-a882-c7440a9db01e
+Solar PV-3,Georgia,solar-utility,solar,252.5,True,False,,,,1.0,1.0,2030,25,dcc0ae4b-728d-4b5c-a882-c7440a9db01e
+Enguri,Georgia,hydro,water,1300.0,True,False,,,,1.0,1.0,1978,83,f418e9a1-208b-43b7-97af-d604dfdcf870
+Vardnili,Georgia,hydro,water,220.0,True,False,,,,1.0,1.0,1971,90,a1577e27-b4da-4f71-8290-dfaf47099a0a
+Khrami-1,Georgia,hydro,water,112.8,True,False,,,,1.0,1.0,1950,111,83cfb065-b735-4b27-8274-888793246d9f
+Khrami-2,Georgia,hydro,water,110.0,True,False,,,,1.0,1.0,1963,98,7e55b5f9-ee87-4576-857c-34ae4afc5a91
+Shaori,Georgia,hydro,water,40.3,True,False,,,,1.0,1.0,1955,106,f9d170ed-82fb-4538-b0c6-4b4839534f3c
+Dzevruli,Georgia,hydro,water,80.0,True,False,,,,1.0,1.0,1956,105,94f6aff4-6f1c-47ba-ac90-3992e2a5024d
+Zhinvali,Georgia,hydro,water,130.0,True,False,,,,1.0,1.0,1985,76,df3ea4be-432e-4044-9e95-660c017ee2cf
+Nenskra,Georgia,hydro,water,280.0,True,False,,,,1.0,1.0,2025,36,dd1c986b-ef8b-4c57-8442-48c435734ede
+Khudoni,Georgia,hydro,water,702.0,True,False,,,,1.0,1.0,2027,34,10eef836-a31c-4010-859d-ffb372ee7354
+Namakhvani Cascade,Georgia,hydro,water,433.0,True,False,,,,1.0,1.0,2024,37,a01cc80d-21a5-4601-8944-66344a5116ad
+Vartsikhe,Georgia,ror,water,184.0,True,False,,,,1.0,1.0,1976,85,15c5f726-0c6e-4427-abb7-b7e1c5bd62c2
+Gumati,Georgia,ror,water,69.5,True,False,,,,1.0,1.0,1958,103,1231ea6e-6ea3-4f36-8449-1244189b6e8b
+Rioni,Georgia,ror,water,51.0,True,False,,,,1.0,1.0,1933,128,3246e3bc-3e30-4312-b1cd-d6de5131040b
+Lajanuri,Georgia,ror,water,113.7,True,False,,,,1.0,1.0,1960,101,13c9798f-e0a7-4aaf-aa5c-64c37e160003
+Ortachala,Georgia,ror,water,18.0,True,False,,,,1.0,1.0,1955,106,fb071713-2727-4f30-a55b-cb921fc0cd1c
+Satskhen,Georgia,ror,water,14.0,True,False,,,,1.0,1.0,1952,109,7ac63551-924c-4d12-b98d-fa768a1797c7
+Zahesi,Georgia,ror,water,36.8,True,False,,,,1.0,1.0,1927,134,040d5814-d862-4e18-aa78-08741f5722d5
+Chitakhevi,Georgia,ror,water,21.0,True,False,,,,1.0,1.0,1950,111,08fdff6d-4b4f-4110-bd11-4f0fc4e60434
+Khadori,Georgia,ror,water,24.0,True,False,,,,1.0,1.0,2004,57,7d6b9b9d-a69d-481c-b50b-588485e9bb30
+Atsi,Georgia,ror,water,18.4,True,False,,,,1.0,1.0,1934,127,ec5e0833-475e-4074-9f4e-b5e5f887f120
+Larsi,Georgia,ror,water,19.0,True,False,,,,1.0,1.0,2013,48,70948a17-0769-4c67-a815-a808882345ac
+Faravani,Georgia,ror,water,86.54,True,False,,,,1.0,1.0,2014,47,fd82de10-82b8-4cf0-9ad0-c4f3dcb38052
+Dariali,Georgia,ror,water,108.0,True,False,,,,1.0,1.0,2016,45,c468cbcb-cc56-4abf-9ff9-d82fe087fe8d
+Khelvachauri-1,Georgia,ror,water,47.5,True,False,,,,1.0,1.0,2017,44,e071e04d-51ce-40fe-9246-652909de34db
+Shuakhevi,Georgia,ror,water,178.7,True,False,,,,1.0,1.0,2017,44,ad4c287e-0b71-451f-acb9-eba4c08c1ea2
+Kimati,Georgia,ror,water,51.25,True,False,,,,1.0,1.0,2017,44,4b40b806-b705-48de-bc67-dbade163d8d5
+Oldenerji,Georgia,ror,water,21.39,True,False,,,,1.0,1.0,2018,43,1e1ac4b6-ca65-4e5c-92be-4c2f19bb4c51
+SHPP,Georgia,ror,water,195.0,True,False,,,,1.0,1.0,1937,124,7f110ae8-ae4b-4824-92cd-0185f91bc09e
+Mestiachala-2,Georgia,ror,water,30.0,True,False,,,,1.0,1.0,2019,42,5b944bf2-ea2d-40dd-9022-a5752276beb5
+Avani,Georgia,ror,water,3.5,True,False,,,,1.0,1.0,2019,42,fd9d43a3-abcb-412c-af38-fc5bf9b831b3
+Zemo Orozmani,Georgia,ror,water,1.12,True,False,,,,1.0,1.0,2019,42,d3e14820-2436-4433-9385-d479fa879d02
+Mestiachala-1,Georgia,ror,water,20.0,True,False,,,,1.0,1.0,2019,42,a37551fe-0159-4d29-b5eb-731bef7c2408
+Khobi-2,Georgia,ror,water,46.7,True,False,,,,1.0,1.0,2021,40,b9167e7a-7f2b-49a0-8699-4bd20fa51ade
+Mtkvari HPP,Georgia,ror,water,53.0,True,False,,,,1.0,1.0,2021,40,52d81faa-2e76-4be0-9485-ddfffc232e24
+Skhalta,Georgia,ror,water,9.8,True,False,,,,1.0,1.0,2020,41,15bf77bc-4abd-4caf-9d7b-dec2ce99e063
+Rachkha,Georgia,ror,water,3.03,True,False,,,,1.0,1.0,2019,42,661b3959-f8e9-4634-9cd0-be4ac083681a
+Goginauri,Georgia,ror,water,4.72,True,False,,,,1.0,1.0,2022,39,42105bab-e508-49bf-ab62-68c66506c5f8
+Nakra,Georgia,ror,water,7.5,True,False,,,,1.0,1.0,2022,39,f233324d-1f93-4e26-992c-29d22cca18c3
+Khelra,Georgia,ror,water,3.3,True,False,,,,1.0,1.0,2022,39,d60ee482-32cd-4928-b63a-ed99ef717fda
+Ifari,Georgia,ror,water,3.0,True,False,,,,1.0,1.0,2022,39,136bd221-32f3-4cf9-9c48-226e23133d78
+Stori-1,Georgia,ror,water,20.03,True,False,,,,1.0,1.0,2020,41,7f3ed27a-54b4-41a3-97d4-e2ebf4dc44b2
+Lajanuri-1,Georgia,ror,water,5.2,True,False,,,,1.0,1.0,2024,37,1d630b4e-b8f9-473d-bb10-1ccf3d9e2503
+Lajanuri-2,Georgia,ror,water,5.4,True,False,,,,1.0,1.0,2024,37,55ef979d-f90a-4b9b-90f6-2a6cddced432
+Lajanuri-3,Georgia,ror,water,5.4,True,False,,,,1.0,1.0,2024,37,28568100-1249-4e22-ae94-445e2426ab0a
+Lakhami-1,Georgia,ror,water,6.4,True,False,,,,1.0,1.0,2020,41,c0b1db08-d217-4429-a600-edf97e40f23e
+Lakhami-2,Georgia,ror,water,9.5,True,False,,,,1.0,1.0,2020,41,6e8346bb-9524-4cef-bec5-10927b868fb0
+Samkuristskali-1,Georgia,ror,water,4.8,True,False,,,,1.0,1.0,2021,40,8e663df8-09b5-4689-a67a-270cd070a66e
+Samkuristskali-2,Georgia,ror,water,26.28,True,False,,,,1.0,1.0,2021,40,df789564-85be-4674-b8d4-6a4ef20bc1af
+Baramidze,Georgia,ror,water,7.8,True,False,,,,1.0,1.0,2022,39,0bd92822-0173-4b66-8099-727ecac8d6a0
+Khadori-3,Georgia,ror,water,5.4,True,False,,,,1.0,1.0,2020,41,9a039a80-4f05-4c9c-a37a-5a8b541582c1
+Aragvi-2,Georgia,ror,water,1.95,True,False,,,,1.0,1.0,2019,42,49070a8f-d050-440f-a8c5-37a34ed25820
+Sashuala-1,Georgia,ror,water,6.99,True,False,,,,1.0,1.0,2021,40,1ab5e39b-04a6-4473-a9b6-fe5f039adf4a
+Sashuala-2,Georgia,ror,water,4.57,True,False,,,,1.0,1.0,2021,40,b6e6653e-6e22-4088-b84d-ce39bac67ca9
+Metekhi-1,Georgia,ror,water,36.73,True,False,,,,1.0,1.0,2023,38,73f54b9d-83d5-41cb-93a6-9a571efb2f04
+Kheledula-3,Georgia,ror,water,50.77,True,False,,,,1.0,1.0,2023,38,4e822ab7-903b-470e-8576-119a7bf2dc06
+Narovani,Georgia,ror,water,0.84,True,False,,,,1.0,1.0,2021,40,80442782-0f25-4927-85b5-ee8450e7c0a6
+Zekari,Georgia,ror,water,1.98,True,False,,,,1.0,1.0,2020,41,fb5de51b-e19d-40be-9eb5-c467655d46be
+Chapala,Georgia,ror,water,0.43,True,False,,,,1.0,1.0,2020,41,7ae63efe-7336-46ca-98c8-b65d5cd51d0c
+Tsablari-2,Georgia,ror,water,24.0,True,False,,,,1.0,1.0,2024,37,43ac54f9-09d1-46a6-ae8b-bd84f5ba2f0b
+Lopota-1,Georgia,ror,water,5.9,True,False,,,,1.0,1.0,2021,40,245cc182-c187-4572-ad39-928a40bd15bc
+Buja-1,Georgia,ror,water,1.72,True,False,,,,1.0,1.0,2022,39,da80da7f-6451-45f1-93e4-e4c589e6a002
+Buja-2,Georgia,ror,water,1.05,True,False,,,,1.0,1.0,2022,39,8aaafe0f-d9f8-439e-8a68-f5278e79c25c
+Buja-3,Georgia,ror,water,1.99,True,False,,,,1.0,1.0,2022,39,519225fa-8046-462f-98f4-0f5c975389eb
+Mazhieti,Georgia,ror,water,12.28,True,False,,,,1.0,1.0,2023,38,ca44370a-3522-4e7d-9db2-31d188f6a99a
+Ghebi,Georgia,ror,water,14.34,True,False,,,,1.0,1.0,2023,38,2fae0429-aaff-4613-b69f-e1eff2f97305
+Ghere,Georgia,ror,water,9.41,True,False,,,,1.0,1.0,2023,38,f8870b46-10f0-4916-ac83-1beb30f94300
+Chiora,Georgia,ror,water,14.15,True,False,,,,1.0,1.0,2023,38,e1cef018-4059-45d4-b004-7de1869a5fe3
+Sakaura,Georgia,ror,water,11.58,True,False,,,,1.0,1.0,2023,38,847ef85e-bf66-4644-9cb7-2a8210e1ef77
+Laskadura,Georgia,ror,water,6.6,True,False,,,,1.0,1.0,2022,39,3c83b1af-c280-4023-a241-61488e77cac1
+Udzilaurta,Georgia,ror,water,8.48,True,False,,,,1.0,1.0,2022,39,686120b6-0a14-42f8-849f-5d0ba657efda
+Dvirula,Georgia,ror,water,1.998,True,False,,,,1.0,1.0,2021,40,51a96f0a-49d4-4fb2-be32-4cffd20b9349
+Tbilisi Sea,Georgia,ror,water,0.6,True,False,,,,1.0,1.0,2020,41,85838b2e-e49c-4094-bfe0-7845553c377e
+Kasleti-1,Georgia,ror,water,8.1,True,False,,,,1.0,1.0,2021,40,838c6ae8-144d-4292-8cde-ea120ffe13e0
+Darchi,Georgia,ror,water,16.9,True,False,,,,1.0,1.0,2022,39,3a8b3573-348f-418e-82aa-6dedd11b35d1
+Zoti,Georgia,ror,water,44.31,True,False,,,,1.0,1.0,2022,39,dd62aae8-fd2b-4791-8d95-2bcd7ddf9f0d
+Oni-1,Georgia,ror,water,122.46,True,False,,,,1.0,1.0,2024,37,f5b175e9-7394-4047-927e-7980b8caf376
+Oni-2,Georgia,ror,water,83.7,True,False,,,,1.0,1.0,2026,35,ba16c4fa-f856-40b9-83b1-8cceb655eccb
+Tskhenistskali Cascade,Georgia,ror,water,357.1,True,False,,,,1.0,1.0,2028,33,4196914b-8d18-48f2-8242-0f706f40025b
+Magana and Leqandre,Georgia,ror,water,8.5,True,False,,,,1.0,1.0,2023,38,9895ee74-231c-448a-b88e-21e68a63067e
+Baisubani,Georgia,ror,water,5.36,True,False,,,,1.0,1.0,2021,40,0a98b6a2-e37b-4d5b-bb89-81f64dff35d4
+Akhalsopeli,Georgia,ror,water,5.0,True,False,,,,1.0,1.0,2021,40,7c880643-9df5-412b-8f14-9c516ad290ea
+Akhalkalaki,Georgia,ror,water,9.88,True,False,,,,1.0,1.0,2023,38,ea28ca5d-7e63-41cc-a284-c7eaf2a7af07
+Lukhra,Georgia,ror,water,5.2,True,False,,,,1.0,1.0,2022,39,23a1d9ca-32d9-4b91-96a6-82cd09757edf
+Nakra-1,Georgia,ror,water,8.8,True,False,,,,1.0,1.0,2023,38,6262fb40-7b81-48d1-82d9-269139da5edc
+Nakra-2,Georgia,ror,water,12.8,True,False,,,,1.0,1.0,2023,38,db1c0df3-04dc-4f0a-b734-9cc56082a05e
+Tbilisi,Georgia,ror,water,20.2,True,False,,,,1.0,1.0,2023,38,e7398f8d-cb03-481c-97ef-8dd8e87f30e1
+Bakhvi-2,Georgia,ror,water,20.0,True,False,,,,1.0,1.0,2022,39,6b205f4c-6952-47c2-aa56-17c6480339cf
+Kamara,Georgia,ror,water,13.5,True,False,,,,1.0,1.0,2024,37,e28e4a8d-55f0-4271-a483-718af71ede58
+Dzegvi,Georgia,ror,water,15.7,True,False,,,,1.0,1.0,2022,39,c5c04ae7-c65d-40b5-a794-b65f7b0eec0d
+Kiziladjlo,Georgia,ror,water,4.0,True,False,,,,1.0,1.0,2023,38,cb9321a9-ab0d-4923-9f28-7be732ee5781
+Sorgiti-1,Georgia,ror,water,13.0,True,False,,,,1.0,1.0,2022,39,002e40e7-35ec-40f8-b4cb-5ee3342a1f3f
+Sorgiti-2,Georgia,ror,water,10.0,True,False,,,,1.0,1.0,2022,39,4a3f4c2b-22b4-4e00-9b60-f4fab539ded3
+Torzila,Georgia,ror,water,1.686,True,False,,,,1.0,1.0,2021,40,35a265b7-f733-431b-bb6c-9d8a36845b5c
+Chordula,Georgia,ror,water,1.973,True,False,,,,1.0,1.0,2022,39,bc5cadbe-9c71-48e5-a65a-a0fed6cea6be
+Mtkvari Cascade 4,Georgia,ror,water,78.1,True,False,,,,1.0,1.0,2026,35,c1a95d81-ce40-4618-b904-120f3a962d37
+Jonouli-2,Georgia,ror,water,32.0,True,False,,,,1.0,1.0,2024,37,f5308166-ac82-41cc-8074-3f26f8a7237b
+Digomi,Georgia,ror,water,17.5,True,False,,,,1.0,1.0,2023,38,3ab9be83-18d2-477f-b307-14f224d5bbbe
+Oqropilauri,Georgia,ror,water,4.36,True,False,,,,1.0,1.0,2023,38,f798ea39-9bb2-4d0c-847a-5897f3ee1b59
+Gubazeuli-6,Georgia,ror,water,3.06,True,False,,,,1.0,1.0,2022,39,cfd11b61-84cc-4216-8daa-fcbd7fcc3e58
+Bzhuzha-2,Georgia,ror,water,5.0,True,False,,,,1.0,1.0,2023,38,35c80465-ff7e-4478-a8ab-8c1db285aaa6
+Khobi-1,Georgia,ror,water,60.0,True,False,,,,1.0,1.0,2026,35,2913d6d1-a998-4a7f-890b-befb732b8097
+Paldo,Georgia,ror,water,7.4,True,False,,,,1.0,1.0,2026,35,509b6b4d-661c-4a0c-9ff4-8be2bc9f8341
+Vedi,Georgia,ror,water,24.06,True,False,,,,1.0,1.0,2024,37,4c8b9fa1-bb7c-4550-b16d-da67de3a5b3b
+Cirmindi,Georgia,ror,water,15.67,True,False,,,,1.0,1.0,2025,36,920117ad-f883-40be-9c92-55a09ec4a941
+Mleta,Georgia,ror,water,4.88,True,False,,,,1.0,1.0,2026,35,df8ae0fb-4812-4080-bf12-a9b4691b64dd
+Kvesheti,Georgia,ror,water,10.37,True,False,,,,1.0,1.0,2026,35,f06cc202-1e55-413c-ba2c-727b6687cfc2
+Barisakho,Georgia,ror,water,13.52,True,False,,,,1.0,1.0,2022,39,57c7b054-1696-49f1-8f10-2c8609b320c2
+Bochorma,Georgia,ror,water,5.0,True,False,,,,1.0,1.0,2026,35,cff3beee-10a3-4d02-b55a-427cc688d9a5
+Akhaldaba,Georgia,ror,water,73.79,True,False,,,,1.0,1.0,2026,35,27a92a33-5d7a-4943-8526-25b9a3d154e7
+Ieli,Georgia,ror,water,80.0,True,False,,,,1.0,1.0,2030,31,7201b3f0-b43c-45ba-a2f5-fcac65f1e226
+Kvanchiani,Georgia,ror,water,230.0,True,False,,,,1.0,1.0,2029,32,d3b0e06f-c409-4fa4-85e3-fcb5961a42fc
+Dizi,Georgia,ror,water,250.0,True,False,,,,1.0,1.0,2025,36,2f1ef096-482a-41d7-914c-ad70cd228e9d
+Qvedi,Georgia,ror,water,1.73,True,False,,,,1.0,1.0,2026,35,307bb6a9-4b9c-44e9-b3e1-4ce2f9049d52
+Andeziti,Georgia,ror,water,1.1,True,False,,,,1.0,1.0,2026,35,11385b90-c25e-47c5-afca-3e38020f5f97
+Khrami-3,Georgia,ror,water,16.07,True,False,,,,1.0,1.0,2023,38,63c5f281-93e2-47de-8920-8310309e1389
+Chartali,Georgia,ror,water,1.99,True,False,,,,1.0,1.0,2020,41,f35f54cc-e1fa-4325-9ef1-8138894c7c7b
+Fona,Georgia,ror,water,10.62,True,False,,,,1.0,1.0,2022,39,c4973982-bb51-443b-a5f9-f840efdb8e83
+Sadmeli-2,Georgia,ror,water,4.0,True,False,,,,1.0,1.0,2022,39,03e9326b-738c-46fc-bae0-7f0e0f0b2b2f
+Meneso,Georgia,ror,water,8.2,True,False,,,,1.0,1.0,2022,39,3079f210-9bde-4af3-9dc9-57249f3866ac
+Kvemo Orozman,Georgia,ror,water,0.63,True,False,,,,1.0,1.0,2021,40,ccda48b1-b62c-4974-9ce3-5fce19f96c90
+Mashavera-1,Georgia,ror,water,1.56,True,False,,,,1.0,1.0,2020,41,0c3c3c7f-9cea-41da-a098-880f0dc091a0
+Mashavera-2,Georgia,ror,water,1.52,True,False,,,,1.0,1.0,2020,41,3b186a25-f4a3-4b92-8f04-cfdaf44e0709
+Zemo Karabulakhi,Georgia,ror,water,1.03,True,False,,,,1.0,1.0,2020,41,eec06f59-db55-4c9d-9939-2656a9bf87ac
+Akavreta,Georgia,ror,water,20.0,True,False,,,,1.0,1.0,2022,39,2a692964-ddfc-4edc-91c8-484f2c71b9cc
+Jagon-Nashumi,Georgia,ror,water,1.991,True,False,,,,1.0,1.0,2021,40,987bea4c-889a-4197-9bde-3c8faea4b2bf
+Naceshari,Georgia,ror,water,1.97,True,False,,,,1.0,1.0,2021,40,1b8c52f5-38ac-40c8-b84f-92e9a718e72f
+Tita,Georgia,ror,water,4.51,True,False,,,,1.0,1.0,2022,39,7967f297-446b-4bef-8c5f-65d2e152ef49
+Khada-1,Georgia,ror,water,2.6,True,False,,,,1.0,1.0,2022,39,a75d01fd-816c-4dec-b252-be2c4805aad2
+Khada-2,Georgia,ror,water,1.1,True,False,,,,1.0,1.0,2023,38,76d796ca-04e1-4a65-9fb5-03260f5dc015
+Shavi Aragvi-1,Georgia,ror,water,3.0,True,False,,,,1.0,1.0,2022,39,f5b3f83c-6eac-4786-9137-f816ed21ee1c
+Shavi Aragvi,Georgia,ror,water,5.3,True,False,,,,1.0,1.0,2023,38,95304098-463b-45b3-ac6b-570d95000723
+Lahlachala,Georgia,ror,water,12.0,True,False,,,,1.0,1.0,2021,40,e372b6b9-0316-4be7-8c50-414704293a57
+Nakhidura,Georgia,ror,water,9.04,True,False,,,,1.0,1.0,2022,39,85024f87-c9df-4eea-bbe5-4572ba4a80d1
+Deka,Georgia,ror,water,1.2,True,False,,,,1.0,1.0,2021,40,f23c5752-c5ae-4c6d-96ef-0765dc75ad8a
+Patara Zekari,Georgia,ror,water,1.89,True,False,,,,1.0,1.0,2021,40,02f916fa-0d0b-4f1c-923e-ef22f6859dc3
+Khevi,Georgia,ror,water,3.08,True,False,,,,1.0,1.0,2022,39,2e93fc59-98f0-4484-8a58-67c0dfd308be
+Boko,Georgia,ror,water,1.0,True,False,,,,1.0,1.0,2020,41,8cb4dc83-fdb7-42db-9cef-8dd5b0b626db
+Plato,Georgia,ror,water,9.5,True,False,,,,1.0,1.0,2021,40,58054549-145c-4fec-93de-4c593db925de
+Borjomi,Georgia,ror,water,2.3,True,False,,,,1.0,1.0,2021,40,f7ed6dcc-64ae-470f-a468-dc7f99f950df
+Khrami,Georgia,ror,water,1.13,True,False,,,,1.0,1.0,2020,41,c9fdeef4-1c65-4a9b-b2ba-579d147154fe
+Qartli WPP,Georgia,onwind,wind,20.7,True,False,,,,1.0,1.0,2017,30,424fca98-d684-41dd-8785-36096ab15ae5
+Wind-1,Georgia,onwind,wind,289.15,True,False,,,,1.0,1.0,2021,25,23e0da7f-c818-47ca-9421-4ebd1f701587
+Wind-2,Georgia,onwind,wind,289.15,True,False,,,,1.0,1.0,2025,25,23e0da7f-c818-47ca-9421-4ebd1f701587
+Wind-3,Georgia,onwind,wind,578.3,True,False,,,,1.0,1.0,2030,25,23e0da7f-c818-47ca-9421-4ebd1f701587
+CCGT,Georgia,CCGT,gas,,False,True,0.0,200.0,200.0,1.0,1.0,2022,25,
+RICE,Georgia,CCGT,gas,,False,True,0.0,250.0,10000.0,1.0,1.0,2022,25,
+GT,Georgia,OCGT,gas,,False,True,0.0,250.0,10000.0,1.0,1.0,2022,25,
+High Resource Solar PV,Georgia,solar-utility,solar,,True,True,0.0,300.0,295.0,1.0,1.0,2021,25,dcc0ae4b-728d-4b5c-a882-c7440a9db01e
+Average Resource Solar PV,Georgia,solar-utility,solar,,True,True,0.0,300.0,3000.0,1.0,1.0,2021,25,068c46e7-5852-4838-97e4-dd23c02f6bee
+Low Resource Solar PV,Georgia,solar-utility,solar,,True,True,0.0,300.0,3000.0,1.0,1.0,2021,25,a122fb65-fec4-44c8-a692-cfa147492d7f
+High Resource Wind,Georgia,onwind,wind,,True,True,0.0,250.0,491.0,1.0,1.0,2021,25,23e0da7f-c818-47ca-9421-4ebd1f701587
+Average Resource Wind,Georgia,onwind,wind,,True,True,0.0,250.0,1136.0,1.0,1.0,2021,25,068ccb9f-ac54-482c-b0e7-cd8463695201
+Low Resource Wind,Georgia,onwind,wind,,True,True,0.0,250.0,2000.0,1.0,1.0,2021,25,ce3109d5-c27a-4526-9110-525c548b7177

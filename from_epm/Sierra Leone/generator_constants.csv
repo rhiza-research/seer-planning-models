@@ -1,0 +1,17 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+CLSG_IMP,Sierra_Leone,import,import,27.0,False,False,,,,1.0,1.0,2020,51,
+CLSG NEW_IMP,Sierra_Leone,import,import,0.0,False,False,,,,1.0,1.0,2025,51,
+KINGTOM_IC_HFO,Sierra_Leone,oil,oil,6.3,False,False,,,,1.0,1.0,1978,31,
+BLACKHALL ROAD NEW_IC_HFO,Sierra_Leone,oil,oil,10.5,False,False,,,,1.0,1.0,2013,31,
+KARPOWERSHIP_IC_IPP,Sierra_Leone,oil,oil,38.27,False,False,,,,1.0,1.0,2018,31,
+SOLAR PARK FREETOWN_PV,Sierra_Leone,solar-utility,solar,6.0,True,False,,,,1.0,1.0,2020,21,4df33f38-50d7-4128-ad48-f11398a908b9
+BUMBUNA-I_HY,Sierra_Leone,hydro,water,50.0,True,False,,,,1.0,1.0,2010,68,e90c74d4-1e80-4970-92a0-8b6f2cf9959a
+BUMBUNA-II_HY,Sierra_Leone,hydro,water,143.0,True,False,,,,1.0,1.0,2028,51,36157f0a-0010-41ef-b922-d4c50bfd26cb
+BUMBUNA-I NEW_HY,Sierra_Leone,hydro,water,50.0,True,False,,,,1.0,1.0,2028,50,dbf93e39-4973-4431-ac9e-837d7bed7217
+CAND_IC_Gas,Sierra_Leone,CCGT,gas,,False,True,35.0,700.0,700.0,1.0,1.0,2023,25,
+CAND_IC_HFO,Sierra_Leone,oil,oil,,False,True,35.0,700.0,700.0,1.0,1.0,2023,30,
+CAND_IC_Diesel,Sierra_Leone,oil,oil,,False,True,35.0,700.0,700.0,1.0,1.0,2023,30,
+CAND_PV,Sierra_Leone,solar-utility,solar,,True,True,50.0,1000.0,1000.0,1.0,1.0,2023,20,4df33f38-50d7-4128-ad48-f11398a908b9
+WB_PV,Sierra_Leone,solar-utility,solar,,True,True,30.0,30.0,30.0,1.0,1.0,2022,20,4df33f38-50d7-4128-ad48-f11398a908b9
+BEKONGOR-III_HY,Sierra_Leone,hydro,water,,True,True,160.0,160.0,160.0,1.0,1.0,2025,50,ae21fc7f-1a3b-453b-90be-cd82c55c07dd
+CAND_WIN,Sierra_Leone,onwind,wind,,True,True,50.0,1000.0,1000.0,1.0,1.0,2022,25,e51340e4-46f7-412d-9f59-1609789d5546

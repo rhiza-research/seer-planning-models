@@ -1,0 +1,23 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+Bushrod,Liberia,CCGT,gas,38.0,False,False,,,,1.0,1.0,2023,47,
+CLSG,Liberia,import,import,27.0,False,False,,,,1.0,1.0,2022,59,
+Existing_gen_lib,Liberia,oil,oil,22.6,False,False,,,,1.0,1.0,2010,21,
+MountCoffeeReservoir,Liberia,hydro,water,88.0,True,False,,,,1.0,1.0,2018,51,99b9fff5-1065-4f44-936e-2e560d236977
+Saint Paul 2,Liberia,hydro,water,154.0,True,False,,,,1.0,1.0,2030,51,1e24b013-a7ee-42bd-9c16-a00c61667f94
+GT_Liberia,Liberia,OCGT,oil,,False,True,500.0,500.0,500.0,0.85,0.9,2042,30,
+Respite_PV,Liberia,solar-utility,solar,,True,True,20.0,50.0,20.0,1.0,1.0,2024,25,ad469668-91b2-4d46-a606-934c6de4915c
+PV_CAND_LIB,Liberia,solar-utility,solar,,True,True,5000.0,50.0,5000.0,1.0,1.0,2030,25,ad469668-91b2-4d46-a606-934c6de4915c
+Cestos,Liberia,hydro,water,,True,True,41.0,41.0,41.0,1.0,1.0,2030,50,28490398-d2df-4209-839b-54ba106d0bb3
+Loffa,Liberia,hydro,water,,True,True,29.0,29.0,29.0,1.0,1.0,2030,50,29254a5c-9ccd-4fae-90f8-6033edd27be7
+Saint-John,Liberia,hydro,water,,True,True,67.0,67.0,67.0,1.0,1.0,2044,50,570283a8-cb8c-4255-845f-97d18fc60d81
+Mano 2,Liberia,hydro,water,,True,True,74.0,74.0,74.0,1.0,1.0,2044,50,0d3fd32f-c4e2-4b62-ab3d-e0c663fde53b
+Via,Liberia,hydro,water,,True,True,44.0,44.0,44.0,1.0,1.0,2030,50,4cc0f24a-a226-4bc3-9555-2a421ea69792
+Saint Paul 1B,Liberia,hydro,water,,True,True,80.0,80.0,80.0,1.0,1.0,2032,50,0ae2c916-8c68-4d24-a78d-bd067440dfd9
+Small_Sites_LIB,Liberia,hydro,water,,True,True,86.0,86.0,86.0,1.0,1.0,2030,50,967bac58-a7eb-4cf1-abd0-c8619aec05dd
+Saint Paul 3,Liberia,hydro,water,,True,True,55.0,55.0,55.0,1.0,1.0,2032,50,c263f9ab-94cb-426c-bb43-8a502a2c8535
+Saint Paul 1A,Liberia,hydro,water,,True,True,80.0,80.0,80.0,1.0,1.0,2032,50,ec86ba52-97e9-4155-995a-32e255782f6f
+Saint Paul 4,Liberia,hydro,water,,True,True,88.0,88.0,88.0,1.0,1.0,2034,50,e0676e20-0233-4623-8663-b9607a05a20d
+Tiboto,Liberia,hydro,water,,True,True,112.5,112.5,112.5,1.0,1.0,2030,50,604413c4-f2a3-4a9d-a769-3f11fb5a1965
+Saint Paul 2 EXT,Liberia,hydro,water,,True,True,120.0,120.0,120.0,1.0,1.0,2034,50,29f8ecbc-1b31-4a0d-b863-34fd5911cf9c
+MountCoffee EXT,Liberia,hydro,water,,True,True,44.0,44.0,44.0,1.0,1.0,2026,50,10511fe5-3892-49e3-928f-40bd2f798233
+Saint Paul 0,Liberia,hydro,water,,True,True,105.0,105.0,105.0,1.0,1.0,2032,50,87bc7fa3-9188-4f86-af45-badbfc87a67d

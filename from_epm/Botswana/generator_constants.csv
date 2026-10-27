@@ -1,0 +1,25 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+Morupule A_Bot_ST_down,Botswana,coal,coal,85.0,False,False,,,,1.0,1.0,2050,1,
+Morupule B2019_1Bot_ST,Botswana,coal,coal,390.0,False,False,,,,0.341,0.341,2015,26,
+Morupule B2_Bot_ST,Botswana,coal,coal,555.0,False,False,,,,0.341,0.341,2040,100,
+Morupule B1_Bot_ST,Botswana,coal,coal,130.0,False,False,,,,0.341,0.341,2025,16,
+Coal_Bot,Botswana,coal,coal,260.0,False,False,,,,0.341,0.341,2026,31,
+Morupule A_Bot_ST,Botswana,coal,coal,100.0,False,False,,,,1.0,1.0,2010,18,
+New_CBM_Bot_gas,Botswana,CCGT,gas,10.0,False,False,,,,1.0,1.0,2025,26,
+Moz_imports,Botswana,import,import,70.0,False,False,,,,1.0,1.0,2018,7,
+Orapa 1&2_Bot_GT,Botswana,OCGT,oil,90.0,False,False,,,,0.614,0.614,2010,27,
+Francistown_Bot_IC,Botswana,oil,oil,70.0,False,False,,,,0.614,0.614,2010,20,
+Power_Africa_IC,Botswana,oil,oil,35.0,False,False,,,,0.614,0.614,2010,6,
+New_CSP_Bot_1,Botswana,csp-tower,solar,200.0,True,False,,,,1.0,1.0,2026,25,1009f5e9-1e3e-4464-b239-510072d0252b
+Solar_Bot_2022,Botswana,solar-utility,solar,4.0,True,False,,,,1.0,1.0,2022,26,1aa38f86-7c21-4294-8644-09d774ba8026
+Solar_Bot,Botswana,solar-utility,solar,131.0,True,False,,,,1.0,1.0,2024,26,1aa38f86-7c21-4294-8644-09d774ba8026
+New_Solar_2025,Botswana,solar-utility,solar,100.0,True,False,,,,1.0,1.0,2025,26,1aa38f86-7c21-4294-8644-09d774ba8026
+Wind_2027,Botswana,onwind,wind,50.0,True,False,,,,1.0,1.0,2026,25,71bc7540-469f-4247-81d3-ad86893269d8
+MorupuleB5_6_Bot,Botswana,coal,coal,,False,True,300.0,300.0,300.0,0.341,0.341,2030,30,
+New_Coal_Bot,Botswana,coal,coal,,False,True,75.0,100.0,10000.0,0.341,0.341,2022,30,
+New_ECBM_Bot,Botswana,CCGT,gas,,False,True,100.0,100.0,10000.0,1.0,1.0,2025,30,
+New_CBM_Bot_gas_2031,Botswana,CCGT,gas,,False,True,100.0,100.0,10000.0,1.0,1.0,2031,30,
+New_OCGT_Bot,Botswana,OCGT,oil,,False,True,100.0,100.0,10000.0,1.0,1.0,2025,30,
+New_CSP_Bot,Botswana,csp-tower,solar,,True,True,200.0,200.0,10000.0,1.0,1.0,2028,30,1009f5e9-1e3e-4464-b239-510072d0252b
+New_Solar_2028,Botswana,solar-utility,solar,,True,True,100.0,100.0,10000.0,1.0,1.0,2026,25,1aa38f86-7c21-4294-8644-09d774ba8026
+Wind_2030,Botswana,onwind,wind,,True,True,100.0,100.0,100.0,1.0,1.0,2027,25,71bc7540-469f-4247-81d3-ad86893269d8

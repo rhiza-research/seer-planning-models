@@ -1,0 +1,2 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+BT_NN_BAT_25_IRQ,IRAQ,battery storage,,0.5,0.9,True,100.0,100.0,5000.0,2026,20

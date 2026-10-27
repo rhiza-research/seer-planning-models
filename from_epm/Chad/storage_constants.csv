@@ -1,0 +1,5 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+Generic_Storage_1,Chad,battery storage,,4.0,0.9,True,,40.0,2000.0,2022,20
+Generic_Storage_2,Chad,battery storage,,4.0,0.9,True,,200.0,200.0,2023,20
+Generic_Storage_3,Chad,battery storage,,4.0,0.9,True,,400.0,400.0,2024,20
+Generic_Storage_4,Chad,battery storage,,4.0,0.9,True,,,400.0,2025,20

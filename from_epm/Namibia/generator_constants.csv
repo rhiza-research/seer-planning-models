@@ -1,0 +1,24 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+Van Eck_Nam_ST,Windhoek,coal,coal,30.0,False,False,,,,0.6,0.6,2016,30,
+ESKOM,Kokerboom,import,import,200.0,False,False,,,,1.0,1.0,2016,8,
+ZESCO,Windhoek,import,import,50.0,False,False,,,,1.0,1.0,2016,16,
+ZPC,Windhoek,import,import,80.0,False,False,,,,1.0,1.0,2016,11,
+ESKOM-2,Kokerboom,import,import,200.0,False,False,,,,1.0,1.0,2024,27,
+ZESCO-2,Windhoek,import,import,50.0,False,False,,,,1.0,1.0,2032,19,
+ZPC-2,Windhoek,import,import,80.0,False,False,,,,1.0,1.0,2027,24,
+ESKOM-PEAK,Kokerboom,import,import,300.0,False,False,,,,1.0,1.0,2016,8,
+Anixas_Nam_IC,Windhoek,oil,oil,15.75,False,False,,,,1.0,1.0,2016,35,
+SolarPV_Nam,Windhoek,solar-utility,solar,125.0,True,False,,,,1.0,1.0,2018,26,6cfac3bd-9fe1-4dd9-b64a-7e5e79f96229
+Ruacana_Nam_HY,Windhoek,hydro,water,300.0,True,False,,,,1.0,1.0,2016,35,1d4fdddf-3f5d-4639-8648-d2d71513a9b4
+Wind_Nam,Aus,onwind,wind,5.0,True,False,,,,1.0,1.0,2018,26,779883c5-d053-467f-9ae6-85b5bae2c684
+GCoal_Nam_CO,Windhoek,coal,coal,,False,True,11.25,112.5,225.0,0.6,0.6,2024,30,
+Kudu_Nam_CCGT,Kokerboom,CCGT,gas,,False,True,225.0,450.0,450.0,1.0,1.0,2026,30,
+New_HFO_Nam,Windhoek,oil,oil,,False,True,50.0,200.0,10000.0,1.0,1.0,2021,30,
+New_CSP_Nam,Windhoek,csp-tower,solar,,True,True,100.0,1000.0,10000.0,1.0,1.0,2024,30,1fbeb6fb-2857-4be6-9561-c9a8e4801b64
+New_Large_Solar_Nam,Windhoek,solar-utility,solar,,True,True,50.0,10000.0,10000.0,1.0,1.0,2021,25,6cfac3bd-9fe1-4dd9-b64a-7e5e79f96229
+New_Solar_wStorage_Nam,Windhoek,solar-utility,solar,,True,True,50.0,10000.0,10000.0,1.0,1.0,2023,25,6cfac3bd-9fe1-4dd9-b64a-7e5e79f96229
+New_Large_Solar_Nam2,Windhoek,solar-utility,solar,,True,True,50.0,1000.0,10000.0,1.0,1.0,2025,25,6cfac3bd-9fe1-4dd9-b64a-7e5e79f96229
+Biomass,Windhoek,biomass,solid biomass,,False,True,40.0,40.0,40.0,1.0,1.0,2024,25,
+Baynes_Nam_HY,Windhoek,hydro,water,,True,True,100.0,300.0,300.0,1.0,1.0,2026,40,94feb0db-1219-4e42-85bb-0ff540117cb2
+New_Large_Wind_Nam,Aus,onwind,wind,,True,True,50.0,1000.0,1000.0,1.0,1.0,2023,25,779883c5-d053-467f-9ae6-85b5bae2c684
+New_Large_Wind_Kok,Kokerboom,onwind,wind,,True,True,50.0,1000.0,1000.0,1.0,1.0,2025,25,bf347efb-4905-4b87-a923-4aa75c831ce9
