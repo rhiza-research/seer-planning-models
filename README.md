@@ -33,6 +33,7 @@ that model's `NOTES.md`, including any manual edits to the csvs.
 | Nigeria | 1 | 2018 | single-year dispatch backcast |
 | Poland | 1 | 2020-2050 | |
 | Rwanda | 1 | 2021 | single-year dispatch backcast, 8760 h, no build options |
+| Sao Tome and Principe | 2 | 2020-2035 | two unconnected islands; nothing buildable before 2022 |
 | Senegal | 1 | 2017-2030 | |
 | Sierra Leone | 1 | 2019-2030 | |
 | Sudan | 1 | 2019-2030 | |

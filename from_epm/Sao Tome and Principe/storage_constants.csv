@@ -1,0 +1,3 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+BESS-P,Principe,battery storage,,8.0,0.85,True,8.0,80.0,400.0,2022,15
+BESS-ST,SaoTome,battery storage,,4.0,0.85,True,4.0,80.0,400.0,2022,15
