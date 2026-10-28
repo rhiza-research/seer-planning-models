@@ -1,0 +1,2 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+Generic_BESS,PSE,battery storage,,3.0,0.9,True,,4500.0,150000.0,2022,20
