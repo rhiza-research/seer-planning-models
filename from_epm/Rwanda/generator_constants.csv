@@ -1,0 +1,33 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+Kivuwatt,Rwanda,OCGT,gas,27.0,False,False,,,,1.0,1.0,2016,20,
+SES Masoro,Rwanda,OCGT,gas,10.0,False,False,,,,1.0,1.0,2018,82,
+SO Energy Birembo,Rwanda,OCGT,gas,10.0,False,False,,,,1.0,1.0,2018,82,
+SO Energy Mukungwa,Rwanda,OCGT,gas,10.0,False,False,,,,1.0,1.0,2018,82,
+SOPP,Rwanda,OCGT,gas,21.6,False,False,,,,1.0,1.0,2019,81,
+Kenya Import,Rwanda,import,import,30.0,False,False,,,,1.0,1.0,2019,81,
+Uganda Import,Rwanda,import,import,2.0,False,False,,,,1.0,1.0,2019,81,
+Jabana 1,Rwanda,oil,oil,7.8,False,False,,,,1.0,1.0,2004,31,
+Jabana 2,Rwanda,oil,oil,21.0,False,False,,,,1.0,1.0,2009,22,
+Gishoma,Rwanda,coal,peat,16.0,False,False,,,,1.0,1.0,2016,20,
+Gigawatt,Rwanda,solar-utility,solar,8.5,True,False,,,,1.0,1.0,2013,23,b92cc302-b530-414f-9106-3238aaf5bb65
+Nasho Solar,Rwanda,solar-utility,solar,3.3,True,False,,,,1.0,1.0,2017,25,b92cc302-b530-414f-9106-3238aaf5bb65
+Cyimbili,Rwanda,ror,water,0.3,True,False,,,,1.0,1.0,2011,89,a2dac8c9-83d5-4db2-81ab-0b28d8f31c3d
+Giciye I,Rwanda,ror,water,4.0,True,False,,,,1.0,1.0,2013,87,0ea77df4-95bc-4d4e-a2ec-f84c3cecbe21
+Giciye II,Rwanda,ror,water,4.0,True,False,,,,1.0,1.0,2016,84,b859f4d8-430d-47d8-8fe2-9d28a9553d9c
+Giciye III,Rwanda,ror,water,10.0,True,False,,,,1.0,1.0,2021,79,58f1fe1b-a1b6-47f8-a8c6-370a3b8d47fb
+Gihira,Rwanda,ror,water,1.8,True,False,,,,1.0,1.0,1984,116,1acde7d4-102d-4231-9c8f-2cf70d05be4e
+Keya,Rwanda,ror,water,2.2,True,False,,,,1.0,1.0,2011,89,e3a60472-c7f2-42fc-8251-ebbbc32a050d
+Mukungwa 1,Rwanda,ror,water,12.0,True,False,,,,1.0,1.0,1982,118,ea030861-d7e4-4e43-ab75-ddb157ac9f10
+Mukungwa 2,Rwanda,ror,water,3.6,True,False,,,,1.0,1.0,2013,87,ed42de0c-3cb9-4b53-b7c5-d5d90efa8d3b
+Nkora,Rwanda,ror,water,0.68,True,False,,,,1.0,1.0,2011,89,8d7468e8-a67a-46b1-88fc-b489d775ccb6
+Ntaruka I,Rwanda,ror,water,11.25,True,False,,,,1.0,1.0,1958,142,b62c25f9-4eac-41e7-b793-21022416d6a8
+Nyabarongo 1,Rwanda,ror,water,28.0,True,False,,,,1.0,1.0,2014,86,a01de525-72d6-4ba2-9103-6abdf7d9e9e1
+Rugezi,Rwanda,ror,water,2.6,True,False,,,,1.0,1.0,2011,89,69e0fe7c-5378-4e6f-8b8a-4c9444527662
+Rukarara 1,Rwanda,ror,water,9.0,True,False,,,,1.0,1.0,2010,90,4ec3d861-4577-4d9c-a273-7b56547a4792
+Rukarara 2,Rwanda,ror,water,2.4,True,False,,,,1.0,1.0,2013,87,3855b2b5-0d74-4ea6-8eea-174c9e26a7b1
+Rusizi I,Rwanda,ror,water,0.0,True,False,,,,1.0,1.0,1957,143,d7075286-c4e6-4c3e-804f-d7aeebbcfa86
+Rusizi II,Rwanda,ror,water,0.0,True,False,,,,1.0,1.0,1984,116,c7fa7a8c-591c-4dc3-8dae-35211709a624
+Rwaza I-Muko,Rwanda,ror,water,3.0,True,False,,,,1.0,1.0,2018,32,0d730052-cf7a-40f1-a691-a6552e3e3994
+Rukarara V & Mushishito,Rwanda,ror,water,5.9,True,False,,,,1.0,1.0,2019,29,684a48e4-8273-4af1-a36e-7ac8409036b0
+Mururu I,Rwanda,ror,water,6.0,True,False,,,,1.0,1.0,2019,81,66fcfc5a-4713-4091-887d-762cda56457f
+Mururu II,Rwanda,ror,water,26.0,True,False,,,,1.0,1.0,2019,81,85cedbcd-9e9a-4b49-b339-a56a14089b65

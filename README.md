@@ -31,6 +31,7 @@ that model's `NOTES.md`, including any manual edits to the csvs.
 | Morocco | 1 | 2020-2050 | |
 | Namibia | 3 | 2020-2040 | |
 | Nigeria | 1 | 2018 | single-year dispatch backcast |
+| Rwanda | 1 | 2021 | single-year dispatch backcast, 8760 h, no build options |
 | Senegal | 1 | 2017-2030 | |
 | Sierra Leone | 1 | 2019-2030 | |
 | Sudan | 1 | 2019-2030 | |
