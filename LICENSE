@@ -1,3 +1,2 @@
-The models in this repository are derived from World Bank Group Electricity Planning Model (EPM)
-datasets published on energydata.info (https://energydata.info/group/epm). Licenses vary by model:
+The models in this repository are derived from various datasets. Licenses vary by dataset and individual model:
 each model folder's LICENSE.md gives its license and source.
