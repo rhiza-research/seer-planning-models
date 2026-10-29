@@ -1,0 +1,13 @@
+from,to,capacity,expandable,start_year,capital,unit_size,total_build_limit
+Z01,Z02,1199.672,False,,,,
+Z01,Z03,4200.552,False,,,,
+Z02,Z03,1549.26,False,,,,
+Z02,Z07,813.5,False,,,,
+Z03,Z05,6076.877,False,,,,
+Z03,Z07,790.667,False,,,,
+Z03,Z08,975.417,False,,,,
+Z05,Z08,945.417,False,,,,
+Z06,Z09,0.0,False,,,,
+Z06,Z09,9999.0,False,2023,,,
+Z07,Z08,3888.125,False,,,,
+Z08,Z09,3907.536,False,,,,

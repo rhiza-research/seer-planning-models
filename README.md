@@ -44,4 +44,5 @@ The set of models are summarized below:
 | Senegal | 1 | 2017-2030 | |
 | Sierra Leone | 1 | 2019-2030 | |
 | Sudan | 1 | 2019-2030 | |
+| Ukraine | 8 | 2020-2050 | |
 | WestAfrica | 16 | 2018-2040 | full WAPP, from EPM's Mauritania workbook |

@@ -1,0 +1,186 @@
+generator,zone,tech,fuel,capacity,isre,expandable,unit_size,annual_build_limit,total_build_limit,ramp_up_rate,ramp_down_rate,start_year,life,profile_id
+CHPs_Z2_NORTH_An,Z02,central coal CHP,coal,83.627,False,False,,,,0.1,0.1,1957,91,
+CHPs_Z1_DONBAS_An,Z01,central coal CHP,coal,48.205,False,False,,,,0.1,0.1,1977,61,
+CHPs_Z7_Center_An,Z07,central coal CHP,coal,236.355,False,False,,,,0.1,0.1,1955,91,
+Luganska_TPP,Z01,coal,coal,1220.0,False,False,,,,0.1,0.1,1965,81,
+Kryvorizka_TPP,Z03,coal,coal,2079.0,False,False,,,,0.3,0.3,1968,81,
+Myronivska_TPP,Z01,coal,coal,115.0,False,False,,,,0.3,0.3,1953,81,
+Myronivska_TPP_2&3,Z01,coal,coal,163.0,False,False,,,,0.3,0.3,2017,41,
+Prydniprovska_TPP_units_300,Z03,coal,coal,310.0,False,False,,,,0.3,0.3,2001,41,
+Slovianska_TPP,Z01,coal,coal,880.0,False,False,,,,0.3,0.3,2014,41,
+Trypilska_TPP_coal_units_300,Z07,coal,coal,918.75,False,False,,,,0.3,0.3,1970,81,
+Zmiivska_TPP_units_200,Z02,coal,coal,1000.0,False,False,,,,0.3,0.3,1965,81,
+Zmiivska_TPP_units_300,Z02,coal,coal,615.0,False,False,,,,0.3,0.3,2019,41,
+Zmiivska_TPP_units_300_7&9,Z02,coal,coal,615.0,False,False,,,,0.3,0.3,1965,81,
+CHPs_Z6_BUISL_Bi,Z06,central coal CHP,coal,0.0,False,False,,,,0.1,0.1,2010,31,
+CHPs_Z7_Center_Bi,Z07,central coal CHP,coal,127.76,False,False,,,,0.1,0.1,1974,61,
+Kaluska_CHP,Z06,central coal CHP,coal,116.576,False,False,,,,0.1,0.1,1968,61,
+BlockStations_Z1_DONBAS,Z01,coal,coal,0.0,False,False,,,,0.3,0.3,2011,41,
+BlockStations_Z2_NORTH,Z02,coal,coal,0.0,False,False,,,,0.3,0.3,2011,41,
+BlockStations_Z2_NORTH*,Z02,coal,coal,526.1,False,False,,,,0.3,0.3,2011,41,
+BlockStations_Z3_DNIPRO,Z03,coal,coal,720.7,False,False,,,,0.3,0.3,2011,41,
+BlockStations_Z5_SOUTH,Z05,coal,coal,252.2,False,False,,,,0.3,0.3,2011,25,
+BlockStations_Z7_CENTR,Z07,coal,coal,16.9,False,False,,,,0.3,0.3,2011,41,
+BlockStations_Z8_SOUTHW,Z08,coal,coal,37.0,False,False,,,,0.3,0.3,2011,41,
+BlockStations_Z9_WEST,Z09,coal,coal,216.6,False,False,,,,0.3,0.3,2011,22,
+Kurakhivska_TPP,Z01,coal,coal,1532.0,False,False,,,,0.3,0.3,2012,41,
+Ladyzhinska_TPP_5&6,Z08,coal,coal,600.0,False,False,,,,0.3,0.3,1971,81,
+Burshtinska_TPP,Z06,coal,coal,2366.0,False,False,,,,0.3,0.3,2015,41,
+Dobrotvirska_TPP,Z09,coal,coal,510.0,False,False,,,,0.3,0.3,2016,41,
+Ladyzhinska_TPP,Z08,coal,coal,1200.0,False,False,,,,0.3,0.3,1971,81,
+Prydniprovska_TPP_units_150,Z03,coal,coal,600.0,False,False,,,,0.3,0.3,1962,81,
+Trypilska_TPP_coal_units_300_4,Z07,coal,coal,306.25,False,False,,,,0.3,0.3,2014,41,
+Vuglegirska_TPP_units_300,Z01,coal,coal,1200.0,False,False,,,,0.3,0.3,1975,81,
+Zaporizka_TPP_units_300,Z03,coal,coal,1250.0,False,False,,,,0.3,0.3,2013,41,
+Zmiivska_TPP_units_200_6,Z02,coal,coal,200.0,False,False,,,,0.3,0.3,2005,41,
+Trypilska_TPP_gas_units_300,Z07,CCGT,gas,381.818,False,False,,,,1.0,1.0,1970,82,
+CHPs_Z2_NORTH_GM,Z02,central gas CHP,gas,193.347,False,False,,,,0.1,0.1,1969,83,
+CHPs_Z2_NORTH_Ga,Z02,central gas CHP,gas,546.527,False,False,,,,0.1,0.1,1982,70,
+CHPs_Z3_DNIPRO_Ga,Z03,central gas CHP,gas,44.601,False,False,,,,0.1,0.1,1943,109,
+CHPs_Z5_SOUTH_Ga,Z05,central gas CHP,gas,109.659,False,False,,,,0.1,0.1,1971,81,
+CHPs_Z1_DONBAS_Ga,Z01,central gas CHP,gas,60.095,False,False,,,,0.1,0.1,1977,75,
+CHPs_Z7_Center_Ga,Z07,central gas CHP,gas,1151.983,False,False,,,,0.1,0.1,1979,73,
+CHPs_Z9_WEST_Ga,Z09,central gas CHP,gas,135.306,False,False,,,,0.1,0.1,1975,77,
+Vuglegirska_TPP_gas_units,Z01,CCGT,gas,2400.0,False,False,,,,0.3,0.3,1975,61,
+Zaporizka_TPP_gas_units,Z03,CCGT,gas,1600.0,False,False,,,,0.3,0.3,1972,61,
+Solar_Z1_DONBAS,Z01,solar-utility,solar,0.0,True,False,,,,1.0,1.0,2015,95,c6f91eee-b376-434c-bd76-63162c5e7ec6
+Solar_Z2_NORTH,Z02,solar-utility,solar,6.575,True,False,,,,1.0,1.0,2015,95,d064eaec-bc87-4cb4-b2dd-9bcb97f99a18
+Solar_Z3_DNIPRO,Z03,solar-utility,solar,387.136,True,False,,,,1.0,1.0,2015,95,b038b208-2706-4a1d-9e12-240f5441f5f6
+Solar_Z5_SOUTH,Z05,solar-utility,solar,3229.974,True,False,,,,1.0,1.0,2015,95,3f6689eb-5821-433a-971f-b891cbaa1dbb
+Solar_Z6_BUISL,Z06,solar-utility,solar,152.014,True,False,,,,1.0,1.0,2015,95,0419efb3-e6b9-423e-83ff-1da12e98f989
+Solar_Z7_CENTR,Z07,solar-utility,solar,129.659,True,False,,,,1.0,1.0,2015,95,5436e022-0d05-44ae-89de-f53c1feb859e
+Solar_Z8_SOUTHW,Z08,solar-utility,solar,609.897,True,False,,,,1.0,1.0,2015,95,e596474b-1bef-4a20-90f9-21c3ae7de93d
+Solar_Z9_WEST,Z09,solar-utility,solar,489.969,True,False,,,,1.0,1.0,2015,95,67241c3d-0361-4162-ad6c-02b2d0f93cb6
+Biomass_TPPs_Z1_DONBAS,Z01,biomass,solid biomass,0.0,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z2_NORTH,Z02,biomass,solid biomass,4.644,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z3_DNIPRO,Z03,biomass,solid biomass,13.76,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z5_SOUTH,Z05,biomass,solid biomass,12.728,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z6_BUISL,Z06,biomass,solid biomass,2.494,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z7_CENTR,Z07,biomass,solid biomass,40.85,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z8_SOUTHW,Z08,biomass,solid biomass,6.966,False,False,,,,0.5,0.5,2010,100,
+Biomass_TPPs_Z9_WEST,Z09,biomass,solid biomass,3.44,False,False,,,,0.5,0.5,2010,100,
+Khmelnitska_NPP,Z08,nuclear,uranium,0.0,False,False,,,,0.2,0.2,2010,51,
+Pivdenno_Ukrainska_NPP,Z05,nuclear,uranium,0.0,False,False,,,,0.2,0.2,2010,51,
+Rivnenska_NPP,Z09,nuclear,uranium,0.0,False,False,,,,0.2,0.2,2010,51,
+Zaporizka_NPP,Z03,nuclear,uranium,0.0,False,False,,,,0.2,0.2,2010,51,
+Khmelnitska_NPP_Unit 1,Z08,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1987,54,
+Khmelnitska_NPP_Unit 2,Z08,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,2004,47,
+Pivdenno_Ukrainska_NPP_Unit 1,Z05,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1982,54,
+Pivdenno_Ukrainska_NPP_Unit 2,Z05,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1985,56,
+Pivdenno_Ukrainska_NPP_Unit 3,Z05,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1989,62,
+Rivnenska_NPP_Unit 1,Z09,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1980,71,
+Rivnenska_NPP_Unit 2,Z09,nuclear,uranium,415.0,False,False,,,,0.2,0.2,1981,55,
+Rivnenska_NPP_Unit 3,Z09,nuclear,uranium,420.0,False,False,,,,0.2,0.2,1986,50,
+Rivnenska_NPP_Unit 4,Z09,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,2004,47,
+Zaporizka_NPP_Unit 1,Z03,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1981,80,
+Zaporizka_NPP_Unit 2,Z03,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1985,56,
+Zaporizka_NPP_Unit 3,Z03,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1986,65,
+Zaporizka_NPP_Unit 4,Z03,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1987,64,
+Zaporizka_NPP_Unit 5,Z03,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1989,62,
+Zaporizka_NPP_Unit 6,Z03,nuclear,uranium,1000.0,False,False,,,,0.2,0.2,1996,65,
+Dniprovska_HPP,Z03,hydro,water,1553.8,True,False,,,,1.0,1.0,1947,106,e84eafee-713b-49f6-8299-9c69c1d8c61c
+Dnistrovska_HPP,Z08,hydro,water,702.0,True,False,,,,1.0,1.0,1983,101,88762f2b-9a71-4b05-b271-3fdfb918c9d7
+Dnistrovska_HPP-2,Z08,hydro,water,0.0,True,False,,,,1.0,1.0,1974,45,2c941274-d909-4a7d-864b-86856500e480
+Kakhovska_HPP,Z05,hydro,water,334.8,True,False,,,,1.0,1.0,1959,101,4285e50d-d0c7-4c7d-aa57-83854b08fc16
+Kanivska_HPP,Z07,hydro,water,482.5,True,False,,,,1.0,1.0,1972,101,cdfa608e-570f-4896-8183-f932e1741432
+Kievska_HPP,Z07,hydro,water,440.0,True,False,,,,1.0,1.0,1964,101,cfbfa322-d053-4f5d-9ffa-b98489d0bf4d
+Kremenchugskaya_HPP,Z03,hydro,water,636.2,True,False,,,,1.0,1.0,1959,101,010d2e1e-d2c8-42f1-ad05-aca4a4080463
+Ladyzhinska_HPP,Z08,hydro,water,7.5,True,False,,,,1.0,1.0,2010,101,e1a403c4-dc13-4d1a-a285-3647048cc2a6
+Oleksandrivska_HPP,Z05,hydro,water,11.5,True,False,,,,1.0,1.0,2010,101,30b9a206-2366-4407-b0fb-efd6e4b09646
+Seredniodniprovska_HPP,Z03,hydro,water,388.0,True,False,,,,1.0,1.0,1963,101,213f45ab-8e99-49ed-9d70-4435fa527588
+Small_HPPs_Z2_NORTH,Z02,hydro,water,7.4,True,False,,,,1.0,1.0,2010,100,756e5902-6dcf-44c6-8cc1-4ddd541a498a
+Small_HPPs_Z3_DNIPRO,Z03,hydro,water,14.1,True,False,,,,1.0,1.0,2010,100,b87283b9-0ef4-4e4e-a55e-6cc0f06d4eb6
+Small_HPPs_Z5_SOUTH,Z05,hydro,water,4.2,True,False,,,,1.0,1.0,2010,100,6320f6cc-a0b3-4da3-9874-a77f4243d28d
+Small_HPPs_Z6_BUISL,Z06,hydro,water,13.7,True,False,,,,1.0,1.0,2010,100,629b46b2-86ca-4ef3-9373-34aa169b4d43
+Small_HPPs_Z7_CENTR,Z07,hydro,water,14.7,True,False,,,,1.0,1.0,2010,100,f4761d20-2a6f-47b4-a748-f9fde4b244e7
+Small_HPPs_Z8_SOUTHW,Z08,hydro,water,83.0,True,False,,,,1.0,1.0,2010,100,08b872cc-255b-4a58-99b6-0f4d24a868f4
+Small_HPPs_Z9_WEST,Z09,hydro,water,5.5,True,False,,,,1.0,1.0,2010,100,577202e0-d810-4b8c-95f0-d92cf64ebfaa
+Terebliarikska_HPP,Z06,hydro,water,27.0,True,False,,,,1.0,1.0,2010,100,a8ebf930-29b4-46b1-97db-27da6d08cd6d
+Wind_Z1_DONBAS,Z01,onwind,wind,0.0,True,False,,,,1.0,1.0,2010,101,92ef7d88-1361-4e12-994c-6d0d28e0a342
+Wind_Z3_DNIPRO,Z03,onwind,wind,601.099,True,False,,,,1.0,1.0,2010,101,695c00e7-b47f-490d-9839-6293ef963f66
+Wind_Z5_SOUTH,Z05,onwind,wind,445.337,True,False,,,,1.0,1.0,2010,101,a81823ea-8527-4d79-8fe1-5d7d82ba7c5e
+Wind_Z6_BUISL,Z06,onwind,wind,106.147,True,False,,,,1.0,1.0,2010,101,d9f86ded-be22-4b24-952f-aec5186540c5
+Wind_Z7_CENTR,Z07,onwind,wind,1.504,True,False,,,,1.0,1.0,2010,101,1b2f9f8b-26ac-4979-81a9-fc4f3fda3fa5
+Wind_Z8_SOUTHW,Z08,onwind,wind,15.937,True,False,,,,1.0,1.0,2010,101,78af797f-8dfb-4cf7-b4c3-3ec49aeac28a
+TPPcoal_Z2,Z02,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z3,Z03,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z5,Z05,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z6,Z06,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z7,Z07,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z8,Z08,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z9,Z09,coal,coal,,False,True,250.0,100.0,20000.0,0.5,0.5,2021,30,
+TPPcoal_Z2_CCS,Z02,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+TPPcoal_Z3_CCS,Z03,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+TPPcoal_Z5_CCS,Z05,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+TPPcoal_Z6_CCS,Z06,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+TPPcoal_Z7_CCS,Z07,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+TPPcoal_Z8_CCS,Z08,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+TPPcoal_Z9_CCS,Z09,coal,coal,,False,True,250.0,1000.0,,0.5,0.5,2035,30,
+GasCC_Z2_CCS,Z02,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasCC_Z3_CCS,Z03,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasCC_Z5_CCS,Z05,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasCC_Z6_CCS,Z06,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasCC_Z7_CCS,Z07,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasCC_Z8_CCS,Z08,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasCC_Z9_CCS,Z09,CCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z2_CCS,Z02,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z3_CCS,Z03,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z5_CCS,Z05,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z6_CCS,Z06,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z7_CCS,Z07,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z8_CCS,Z08,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+GasOCGT_Z9_CCS,Z09,OCGT,gas,,False,True,250.0,1000.0,10000.0,1.0,1.0,2035,30,
+RooftopPV_Z1,Z01,solar-rooftop,solar,,True,True,100.0,,,1.0,1.0,2021,25,0f372998-5e42-4a35-9ee0-07767770057a
+RooftopPV_Z3,Z03,solar-rooftop,solar,,True,True,100.0,,,1.0,1.0,2021,25,0db6d94a-fa97-4b82-9698-99639093c0f7
+RooftopPV_Z4,Z05,solar-rooftop,solar,,True,True,100.0,,,1.0,1.0,2021,25,5ff461e2-7ac0-49a9-801b-1c95284739c1
+RooftopPV_Z5,Z06,solar-rooftop,solar,,True,True,100.0,,,1.0,1.0,2021,25,c93b07c4-df39-4961-8ad4-297e1baa6d55
+RooftopPV_Z6,Z07,solar-rooftop,solar,,True,True,100.0,,,1.0,1.0,2021,25,4fe6efc3-96a4-4e01-98d1-653ccbf41db8
+RooftopPV_Z8,Z09,solar-rooftop,solar,,True,True,100.0,,,1.0,1.0,2021,25,da16459a-807f-43fd-8b97-7c3d4203d184
+GasCC_Z2,Z02,CCGT,gas,,False,True,250.0,100.0,10000.0,1.0,1.0,2021,30,
+GasCC_Z3,Z03,CCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCC_Z5,Z05,CCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCC_Z6,Z06,CCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCC_Z7,Z07,CCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCC_Z8,Z08,CCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCC_Z9,Z09,CCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCT_Z2,Z02,OCGT,gas,,False,True,250.0,100.0,10000.0,1.0,1.0,2021,30,
+GasCT_Z3,Z03,OCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCT_Z5,Z05,OCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCT_Z6,Z06,OCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCT_Z7,Z07,OCGT,gas,,False,True,250.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCT_Z8,Z08,OCGT,gas,,False,True,500.0,100.0,20000.0,1.0,1.0,2021,30,
+GasCT_Z9,Z09,OCGT,gas,,False,True,500.0,100.0,20000.0,1.0,1.0,2021,30,
+SolarPV_Z2,Z02,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,d064eaec-bc87-4cb4-b2dd-9bcb97f99a18
+SolarPV_Z3,Z03,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,b038b208-2706-4a1d-9e12-240f5441f5f6
+SolarPV_Z5,Z05,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,3f6689eb-5821-433a-971f-b891cbaa1dbb
+SolarPV_Z6,Z06,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,0419efb3-e6b9-423e-83ff-1da12e98f989
+SolarPV_Z7,Z07,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,5436e022-0d05-44ae-89de-f53c1feb859e
+SolarPV_Z8,Z08,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,e596474b-1bef-4a20-90f9-21c3ae7de93d
+SolarPV_Z9,Z09,solar-utility,solar,,True,True,100.0,,,1.0,1.0,2021,25,67241c3d-0361-4162-ad6c-02b2d0f93cb6
+Biomass_TPPs_Z1,Z01,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z2,Z02,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z3,Z03,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z5,Z05,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z6,Z06,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z7,Z07,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z8,Z08,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Biomass_TPPs_Z9,Z09,biomass,solid biomass,,False,True,100.0,,,0.5,0.5,2021,30,
+Generic_NPP,Z08,nuclear,uranium,,False,True,1000.0,200.0,1000.0,0.2,0.2,2037,50,
+Khmelnitska_NPP_Unit 3,Z08,nuclear,uranium,,False,True,1000.0,1000.0,1000.0,0.2,0.2,2032,50,
+Khmelnitska_NPP_Unit 4,Z08,nuclear,uranium,,False,True,1000.0,1000.0,1000.0,0.2,0.2,2034,50,
+Generic_NPP_2040,Z09,nuclear,uranium,,False,True,1000.0,1000.0,2000.0,0.2,0.2,2044,50,
+Generic_NPP_2042,Z03,nuclear,uranium,,False,True,1000.0,1000.0,1000.0,0.2,0.2,2040,50,
+Generic_NPP_2044,Z05,nuclear,uranium,,False,True,1000.0,1000.0,2000.0,0.2,0.2,2042,50,
+Generic_NPP_2046,Z06,nuclear,uranium,,False,True,1000.0,1000.0,2000.0,0.2,0.2,2046,50,
+Generic_NPP_2048,Z07,nuclear,uranium,,False,True,1000.0,1000.0,2000.0,0.2,0.2,2048,50,
+New_HPP_2030,Z07,hydro,water,,True,True,500.0,100.0,500.0,1.0,1.0,2030,50,9b9c5772-ff94-41ba-b33d-f4e75b8b2dab
+New_HPP_2035,Z07,hydro,water,,True,True,500.0,100.0,500.0,1.0,1.0,2035,50,e9e35995-fc35-4d44-8161-253152f07da9
+Offshore_Z5,Z05,offwind,wind,,True,True,200.0,,,1.0,1.0,2030,30,f08b8eab-7fb8-4024-af8d-b6e1525ef83b
+Offshore_Z3,Z03,offwind,wind,,True,True,200.0,,,1.0,1.0,2030,30,edb452d1-2678-467e-9b07-6ff9af3fe758
+Wind_Z2,Z02,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,d8645856-df53-412b-aba8-3919c386ca5d
+Wind_Z3,Z03,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,695c00e7-b47f-490d-9839-6293ef963f66
+Wind_Z5,Z05,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,a81823ea-8527-4d79-8fe1-5d7d82ba7c5e
+Wind_Z6,Z06,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,d9f86ded-be22-4b24-952f-aec5186540c5
+Wind_Z7,Z07,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,1b2f9f8b-26ac-4979-81a9-fc4f3fda3fa5
+Wind_Z8,Z08,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,78af797f-8dfb-4cf7-b4c3-3ec49aeac28a
+Wind_Z9,Z09,onwind,wind,,True,True,200.0,,,1.0,1.0,2021,25,638ecb1d-5a59-47d5-aeab-bf23a6666e2f

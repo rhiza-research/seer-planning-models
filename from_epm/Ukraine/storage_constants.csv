@@ -1,0 +1,12 @@
+storage,zone,tech,capacity_mw,duration_hours,efficiency,expandable,unit_size_mwh,annual_build_limit_mwh,total_build_limit_mwh,start_year,life
+Dnistrovska_PSPS,Z08,PHS,972.0,42.686111,0.72,False,,,,2009,199
+Kievska_PSPS,Z07,PHS,235.5,8.738854,0.72,False,,,,1970,397
+Tashlitskaya_PSPS,Z05,PHS,302.0,3.3112579999999996,0.72,False,,,,2007,100
+Kaniv_PSPS,Z07,PHS,,2.7,0.72,True,2700.0,1350.0,2700.0,2021,50
+Storage_Z2,Z02,battery storage,,10.0,0.9,True,1000.0,,,2021,20
+Storage_Z3,Z03,battery storage,,10.0,0.9,True,1000.0,,,2021,20
+Storage_Z5,Z05,battery storage,,10.0,0.9,True,1000.0,,,2021,20
+Storage_Z6,Z06,battery storage,,10.0,0.9,True,1000.0,,,2021,20
+Storage_Z7,Z07,battery storage,,10.0,0.9,True,1000.0,,,2021,20
+Storage_Z8,Z08,battery storage,,10.0,0.9,True,1000.0,,,2021,20
+Storage_Z9,Z09,battery storage,,10.0,0.9,True,1000.0,,,2021,20
