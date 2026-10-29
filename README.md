@@ -1,18 +1,25 @@
 # seer-planning-models
 
-Capacity expansion planning models for power systems, in the input schema of
-[seer](https://github.com/rhiza-research/seer). Each folder is a complete model: load it
-with seer and solve it with the PyPSA or Pyomo backend.
+This repository contains capacity planning models for regions and countries, specified in the
+[seer](https://github.com/rhiza-research/seer) schema. Each model is contained in a single folder
+and specified by a set of csv files.
 
-## from_epm
+seer tools can be used to run, modify, and visualize these models. 
 
-Models converted from the World Bank's
-[Electricity Planning Model (EPM)](https://github.com/ESMAP-World-Bank-Group/EPM) "EPM open"
-input workbooks, using seer's EPM pipeline (`scripts/convert_epm_open.py` -> `epm_to_seer()`).
+Models can come from different sources and have varying licenses; please check in each model folder
+for the appropriate licensing information.
 
-The conversion reproduces EPM's own assumptions. It does not correct them toward the real system.
-Where a model needed a fix to solve or to match EPM's intent, the change is listed in
-that model's `NOTES.md`, including any manual edits to the csvs.
+Top level folders indicate different model datasets and sources. 
+
+### from_epm
+
+A set of models converted into the seer schema from the
+[Electricity Planning Model (EPM)](https://github.com/ESMAP-World-Bank-Group/EPM) dataset.
+These models were programmatically and manually converted into the seer schema.
+Changes to the original model data including corrections, gap filling, or simplifications are
+recorded in the `NOTES.md` file associated with each model.
+
+The set of models are summarized below:
 
 | Model | Zones | Years | Notes |
 |---|---|---|---|
@@ -38,21 +45,3 @@ that model's `NOTES.md`, including any manual edits to the csvs.
 | Sierra Leone | 1 | 2019-2030 | |
 | Sudan | 1 | 2019-2030 | |
 | WestAfrica | 16 | 2018-2040 | full WAPP, from EPM's Mauritania workbook |
-
-Each folder holds the seer schema csvs (`zones`, `years`, `times`, `settings`,
-`demand_forecast`, `demand_profile`, `generator_constants`, `generator_costs`,
-`storage_constants`, `storage_costs`, `renewable_profiles`, `network`), a `NOTES.md` with
-that model's processing notes and a `LICENSE.md`.
-
-## Licenses
-
-Each model is derived from an EPM dataset published by the World Bank Group on
-[energydata.info](https://energydata.info/group/epm), and is shared under that dataset's license.
-Licenses differ between models: see each folder's `LICENSE.md`.
-
-## Provenance
-
-Generated with seer at commit `5ae6d098a15824fe3f5b0364b604b394bea47377`, using its EPM
-conversion pipeline (`scripts/convert_epm_open.py`, `inputs/epm2seer`). The pipeline's own
-reference tables (technology and fuel name mappings) live in seer and are not redistributed here.
-Paths mentioned in `NOTES.md` (`data/...`, `scripts/...`) refer to the seer repo.
