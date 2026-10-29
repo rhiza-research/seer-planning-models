@@ -41,10 +41,18 @@ that model's `NOTES.md`, including any manual edits to the csvs.
 
 Each folder holds the seer schema csvs (`zones`, `years`, `times`, `settings`,
 `demand_forecast`, `demand_profile`, `generator_constants`, `generator_costs`,
-`storage_constants`, `storage_costs`, `renewable_profiles`, `network`) and a `NOTES.md` with
-that model's processing notes.
+`storage_constants`, `storage_costs`, `renewable_profiles`, `network`), a `NOTES.md` with
+that model's processing notes and a `LICENSE.md`.
+
+## Licenses
+
+Each model is derived from an EPM dataset published by the World Bank Group on
+[energydata.info](https://energydata.info/group/epm), and is shared under that dataset's license.
+Licenses differ between models: see each folder's `LICENSE.md`.
 
 ## Provenance
 
-Generated with seer at commit `5ae6d098a15824fe3f5b0364b604b394bea47377`. Paths mentioned in
-`NOTES.md` (`data/...`, `scripts/...`) refer to the seer repo.
+Generated with seer at commit `5ae6d098a15824fe3f5b0364b604b394bea47377`, using its EPM
+conversion pipeline (`scripts/convert_epm_open.py`, `inputs/epm2seer`). The pipeline's own
+reference tables (technology and fuel name mappings) live in seer and are not redistributed here.
+Paths mentioned in `NOTES.md` (`data/...`, `scripts/...`) refer to the seer repo.
