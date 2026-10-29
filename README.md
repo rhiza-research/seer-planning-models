@@ -4,7 +4,7 @@ This repository contains capacity planning models specified in the [seer](https:
 
 Each model is contained in a single folder and fully defined by its [seer schema](https://github.com/rhiza-research/seer/tree/main/seer/schema) csv files. Top level folders indicate different model datasets and sources. 
 
-Models included here come from different sources and have varying licenses; please check in each model folder for the appropriate licensing information.
+Models included here come from different sources and have varying licenses; please check in each model folder for the appropriate licensing information. Models are made available under their source licenses.
 
 ### EPM Models
 
